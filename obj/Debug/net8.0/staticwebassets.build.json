@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HSuAd4kJi3FEUyG0bOqMfq+/++dF1SEczYvGOWMoHVs=",
+  "Source": "PasswordHashAPI",
+  "BasePath": "_content/PasswordHashAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
